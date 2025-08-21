@@ -1,0 +1,11 @@
+body{
+    background-color:blueviolet;
+    color: blueviolet;
+    font-family: sans-serif;
+margin: 0px;
+}
+header {border-bottom: solid 4px red;
+padding: 10px;
+font-size: 32px;
+color: chartreuse;
+}
